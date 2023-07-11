@@ -1,0 +1,11 @@
+uvicorn[standard]
+Pillow
+numpy
+python-multipart
+aiohttp
+tensorflow
+pymongo
+fastapi
+gunicorn
+
+

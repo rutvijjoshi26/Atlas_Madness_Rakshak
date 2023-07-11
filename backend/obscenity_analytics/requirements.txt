@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pymongo
+ip2geotools
+pydantic-settings
+gunicorn

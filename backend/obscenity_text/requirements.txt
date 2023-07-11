@@ -1,0 +1,10 @@
+numpy
+tensorflow 
+uvicorn[standard]
+clean-text
+unidecode
+gensim
+nltk
+pymongo
+fastapi
+gunicorn

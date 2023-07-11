@@ -1,0 +1,5 @@
+runtime: python39
+service: video
+instance_class: F4
+entrypoint: gunicorn -w 2 -k uvicorn.workers.UvicornWorker main:app
+

@@ -1,0 +1,10 @@
+"https://s8.trafficdeposit.com//blog/vid/5f3950a938042/6448dc2bcedf5/vidthumb.mp4",
+"https://s12.trafficdeposit.com//blog/vid/5f3950a938042/6448fd2738abb/vidthumb.mp4",
+"https://s3.trafficdeposit.com//blog/vid/5fe8b4a3935ca/6449647f0f447/vidthumb.mp4",
+"https://s11.trafficdeposit.com//blog/vid/5f3950a938042/6448fcb1211ea/vidthumb.mp4",
+"https://s5.trafficdeposit.com//blog/vid/5f38c5670bd25/64493a7463afd/vidthumb.mp4",
+"https://s18.trafficdeposit.com//blog/vid/5f3950a938042/6448c99b9ff0d/vidthumb.mp4",
+"https://s24.trafficdeposit.com//blog/vid/5c09adbd81e52/6449b2a139453/vidthumb.mp4",
+"https://s10.trafficdeposit.com//blog/vid/5f3950a938042/6448e7639c599/vidthumb.mp4",
+"https://s4.trafficdeposit.com//blog/vid/618afb5ec39a8/64490f870cbae/vidthumb.mp4",
+"https://s3.trafficdeposit.com//blog/vid/642515946532e/64491125b8f9f/vidthumb.mp4"

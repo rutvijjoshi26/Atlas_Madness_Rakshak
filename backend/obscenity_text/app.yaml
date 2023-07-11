@@ -1,0 +1,7 @@
+runtime: python39
+instance_class: F4
+service: text
+entrypoint: python nltk_setup_script.py && gunicorn -w 2 -k uvicorn.workers.UvicornWorker main:app
+
+env_variables:
+  NLTK_DATA: "/tmp/nltk_data"
