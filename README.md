@@ -57,7 +57,7 @@ To get started with the Obscenity Blocker Solution Extension, follow these steps
 
 ## Usage
 
-Once the project is set up, you can start using the Onsenity Blocker Solution Extension to block explicit and offensive content. Here are some steps to get you started:
+Once the project is set up, you can start using the Obscenity Blocker Solution Extension to block explicit and offensive content. Here are some steps to get you started:
 
 1. Launch the Chrome browser with the installed extension.
 2. Configure the extension's settings as per your preferences.
@@ -65,25 +65,5 @@ Once the project is set up, you can start using the Onsenity Blocker Solution Ex
 4. Interact with the React application to manage and monitor the content filtering process.
 5. Explore the analytics service to gain insights into the detected content and user interactions.
 
-## Contributing
 
-Contributions to the Onsenity Blocker Solution Extension project are welcome! If you wish to contribute, please follow these guidelines:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make the necessary changes in your branch.
-4. Test your changes to ensure they do not introduce any issues.
-5. Commit and push your changes to your forked repository.
-6. Open a pull request, describing the changes you have made.
-
-
-
-## Contact
-
-For any inquiries or questions regarding the Onsenity Blocker Solution Extension, please contact:
-
-- Project Maintainer: [Atharva Mahadeokar](mailto:athaarva999@gmail.com)
-
-Feel free to reach out for any support or feedback you may have!
-
-**Thank you for using the Onsenity Blocker Solution Extension!**
+**Thank you for using the Obscenity Blocker Solution Extension!**
