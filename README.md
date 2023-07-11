@@ -1,24 +1,24 @@
-# Onsenity Blocker Solution Extension
+# Obscenity Blocker Solution Extension
 
-Welcome to the Onsenity Blocker Solution Extension! This project is aimed at providing a comprehensive solution for blocking explicit and offensive content across various platforms. This README file will guide you through the structure of the project and provide instructions for setting it up and running.
+Welcome to the Obscenity Blocker Solution Extension! This project is aimed at providing a comprehensive solution for blocking explicit and offensive content across various platforms. This README file will guide you through the structure of the project and provide instructions for setting it up and running.
 
 ## Project Structure
 
 The Git repository contains two main folders:
 
-1. **backend**: This folder contains the backend services responsible for handling the core functionalities of the Onsenity Blocker Solution.
+1. **backend**: This folder contains the backend services responsible for handling the core functionalities of the Obscenity Blocker Solution.
    - **obscenity_text**: This folder contains the microservice responsible for detecting explicit content in text data.
    - **obscenity_image**: This folder contains the service responsible for processing images and detecting explicit content within them.
    - **obscenity_video**: This folder contains the service responsible for processing videos and detecting explicit content within them.
    - **obscenity_analytics**: This folder contains the service responsible for collecting and analyzing data related to content filtering and user interactions.
 
-2. **frontend**: This folder contains the frontend components of the Onsenity Blocker Solution Extension.
+2. **frontend**: This folder contains the frontend components of the Obscenity Blocker Solution Extension.
    - **chrome_extension**: This folder contains the Chrome extension, which integrates with the browser to provide content filtering capabilities.
    - **rakshak_frontend_website**: This folder contains the React application that serves as the user interface for the analytics dashboard.
 
 ## Getting Started
 
-To get started with the Onsenity Blocker Solution Extension, follow these steps:
+To get started with the Obscenity Blocker Solution Extension, follow these steps:
 
 1. Clone the repository to your local machine.
 
