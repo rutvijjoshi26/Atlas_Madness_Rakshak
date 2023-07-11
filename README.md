@@ -41,7 +41,15 @@ To get started with the Obscenity Blocker Solution Extension, follow these steps
 
 3. Frontend Setup:
    - For the Chrome extension:
-     - Open the `chrome-extension` folder in your preferred code editor.
+     1. Open the Google Chrome browser.
+     2. In the address bar, type `chrome://extensions` and press Enter. This will open the Extensions page.
+     3. Enable Developer mode by toggling the switch located in the top-right corner of the Extensions page.
+     4. Click on the "Load unpacked" button that appears after enabling Developer mode.
+     5. A file explorer window will open. Navigate to the directory where your Chrome extension is located.
+     6. Select the folder that contains the Chrome extension and click the "Select Folder" button.
+     7. The Chrome extension will now be loaded in developer mode.
+     8. You should see the extension listed on the Extensions page, and it will be enabled by default.
+     9. You can interact with the extension by clicking on its icon in the Chrome toolbar.
    
    - For the React application:
      - Open the `react-app` folder in your preferred code editor.
@@ -64,6 +72,5 @@ Once the project is set up, you can start using the Obscenity Blocker Solution E
 3. Browse various websites and observe how the extension detects and blocks explicit content.
 4. Interact with the React application to manage and monitor the content filtering process.
 5. Explore the analytics service to gain insights into the detected content and user interactions.
-
 
 **Thank you for using the Obscenity Blocker Solution Extension!**
